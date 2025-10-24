@@ -1,0 +1,13 @@
+{
+  "name": "Cube Stack",
+  "slug": "cube-stack",
+  "description": "A fun cube stacking game built for Farcaster",
+  "url": "https://bairdrop.github.io/cube-stack-miniapp",
+  "iconUrl": "https://bairdrop.github.io/cube-stack-miniapp/assets/icon.png",
+  "splashImageUrl": "https://bairdrop.github.io/cube-stack-miniapp/assets/splash.png",
+  "ogImageUrl": "https://bairdrop.github.io/cube-stack-miniapp/assets/og-image.png",
+  "developer": {
+    "name": "Bairixa",
+    "url": "https://bairdrop.github.io"
+  }
+}
